@@ -5,7 +5,7 @@ import './index.css';
 const QRCodeComponent = () => {
   return (
     <div className="qrcode-container">
-      <QRCodeSVG value={window.location.href} />
+      <QRCodeSVG value={https://sandeepraj97.github.io/Indroyd/} />
     </div>
   );
 };
